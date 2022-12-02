@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=yffOjRhvhZw&list=WL&index=23
+
+curl -s https://crt.sh/\?o\=Domain\&output\=json > Domain.txt
+cat Domain.txt | jq -r '.[].common_name' | sed 's/\*//g' | sort -u | rev | cut -d "." -f 1,2 | rev | sort -u
+
+for count | wc -l
+
+https://0xffsec.com/handbook/information-gathering/subdomain-enumeration/
