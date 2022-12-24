@@ -1,0 +1,8 @@
+https://j0vsec.com/post/firebase_during_bug_bounty_hunting/
+
+https://vinay7751.medium.com/firebase-key-leak-and-how-to-exploit-firebase-keys-61b1e4057119
+
+https://cloud.hacktricks.xyz/pentesting-cloud/gcp-pentesting/gcp-services/gcp-databases-enum/gcp-firebase-enum
+#Use pyrebase4
+
+https://workbook.securityboat.in/resources/web-app-pentest/keyhacks/firebase-exploits
